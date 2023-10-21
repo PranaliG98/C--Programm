@@ -1,3 +1,10 @@
+/*Write an expression for finding a positive root of Quadratic equation
+
+write only one positive formula at line
+
+ root1=(-b+sqrt(b*b-4*a*c))/(2*a)
+
+*/
 #include <iostream>
 #include <math.h>
 using namespace std;
